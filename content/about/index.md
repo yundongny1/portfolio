@@ -1,7 +1,7 @@
 ---
 type: about
 linktitle: About
-title: Hi, my name is Hugo.
+title: Hi, my name is Justin.
 seo_title: About
 description: Learn more about my background and experience.
 ---
