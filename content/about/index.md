@@ -6,16 +6,14 @@ seo_title: About
 description: Learn more about my background and experience.
 ---
 
-You can customize the about page heading and disable social links if desired. The rest of the content can be added with markdown. Please see [Github](https://github.com/wjh18/hugo-liftoff) for a full list of features and documentation.
-
 ## Who am I?
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce sem augue, tristique luctus lobortis nec, cursus eu erat. Proin dictum vel enim a vestibulum.
+When people ask me this question, I like to answer, 'I'm just a guy.' Hopefully this portfolio will convince you otherwise! Although this site was created as a personal portfolio for MSDS 431 at Northwestern's MSDS program, my vision for this website is for it to become a personal blog of some sorts in the future. Stay tuned for more to come!
 
 ## My Experience
 
-Integer est purus, aliquam ac enim aliquet, viverra sodales mauris. Integer neque sapien, fermentum sit amet augue in, vulputate pellentesque turpis. Quisque eget blandit turpis, in semper lectus.
+I graduated from University of Illinois at Urbana-Champaign with a major in Statistics, and I'm currently working full time as a data analyst in the Music Industry while being a part-time student at [Northwestern's MSDS](https://sps.northwestern.edu/masters/data-science/) program.
 
 ## Learn More
 
-You can also link to [other pages]({{< ref "contact" >}}) in your markdown.
+If you want to send me a message, clik this [link]({{< ref "contact" >}}).
